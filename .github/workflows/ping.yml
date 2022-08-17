@@ -22,7 +22,6 @@ jobs:
       run: Web.Ping --host https://alist.52qy.repl.co
     - name: Ping alist.52qy.repl.co
       run: Web.Ping --host https://alist.52qy.repl.co
-    - name: Ping alist.52qy.repl.co
-      run: Web.Ping --host https://alist.52qy.repl.co
+
 
 
